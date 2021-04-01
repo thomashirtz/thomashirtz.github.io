@@ -1,0 +1,15 @@
+---
+title: "Thomas Hirtz"
+image: "thomas.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/thomashirtz/"
+  - label: GitHub
+    url: "https://github.com/thomashirtz"
+  - label: Email
+    url: "mailto:thomashirtz@pm.me"
+output:
+  postcards::jolla
+---
+ 
+
